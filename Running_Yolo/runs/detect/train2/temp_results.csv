@@ -1,0 +1,2 @@
+      Epoch    GPU_mem   box_loss   cls_loss   dfl_loss  Instances       Size
+        1/1       2.3G      1.319      1.113      1.278         29        640:  40%|████      | 534/1324 [08:31<12:36,  1.04it/s]
