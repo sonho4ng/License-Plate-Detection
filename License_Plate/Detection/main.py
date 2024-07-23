@@ -3,7 +3,7 @@ import cv2
 import cvzone
 import util
 import torch
-from License_Plate.sort.sort import *
+from License_Plate.tools.sort import *
 from util import get_car, read_license_plate, write_csv
 
 
